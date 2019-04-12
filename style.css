@@ -1,15 +1,20 @@
 html {
   font-size: 10px;
-  background: url(https://pm1.narvii.com/6003/456549f1ac738ed4480a2e0eadaac3ed42c12c08_hq.jpg) bottom center;
+  
+  bottom: center;
   /* background-size: cover; */
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
+  /* background-size: 100% 100%;
+  background-repeat: no-repeat; */
 }
 
 body,html {
+  background-image: url('img/1c4034686415951336077afda8b9ae11.png');
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .keys {
